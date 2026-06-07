@@ -1,6 +1,8 @@
 # 🚛 Transportation Cost Optimization Using Linear Programming in Excel
 
-> Minimizing logistics cost through mathematical optimization — applied to real supply chain scenarios.
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Data Source](https://img.shields.io/badge/Data-World%20Bank-003087?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
